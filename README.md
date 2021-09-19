@@ -2,6 +2,6 @@ Hi, I’m @krisnasirait, an informatics undergraduate student in University of P
   I’m currently learning android development using java, kotlin, and also UI/UX design.
  
  
- https://github-readme-stats.vercel.app/api?username=krisnasirait&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
+<img src="https://github-readme-stats.vercel.app/api?username=krisnasirait&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
