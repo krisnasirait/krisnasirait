@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krisna Sirait</h1>
-<h3 align="center">an informatics undergraduate student in University of Pembangunan Nasional Veteran Yogyakarta. I’m interested in computer science, especially android development. I’m currently learning android development using java, kotlin, and also UI/UX design.</h3>
+<h3 align="center">an informatics undergraduate student in University of Pembangunan Nasional Veteran Yogyakarta. I’m interested in android development. I’m currently learning android development using java, kotlin, and also UI/UX design.</h3>
 
 - 🌱 I’m currently learning **Java and Kotlin for Android Development**
 
