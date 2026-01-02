@@ -2,7 +2,7 @@
 **Android Engineer (Kotlin/Java) | Fintech & Trading Apps | Performance & Security-minded**
 
 ## 💫 About Me
-I’m an **Android Engineer** based in Jakarta, currently working at **Ajaib**. Previously, I worked at **INDODAX** across Exchange, US Stocks, and Fiat Money teams — building and improving features in high-traffic financial products.
+I’m an **Android Engineer** based in Jakarta, working across Exchange, US Stocks, and Fiat Money teams — building and improving features in high-traffic financial products.
 
 I enjoy solving complex problems in:
 - ⚡ **Performance optimization** (RecyclerView, data flow, UI responsiveness)
