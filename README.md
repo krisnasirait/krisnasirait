@@ -1,32 +1,39 @@
-make a better github readme 
+<div align="center">
 
-# Hi, I’m Krisna 👋
-**Android Engineer (Kotlin/Java) | Fintech & Trading Apps | Performance & Security-minded**
+# Hi, I'm Krisna 👋
+
+### Android Engineer (Kotlin/Java) · Fintech & Trading Apps · Performance & Security-minded
+
+</div>
+
+---
 
 ## 💫 About Me
-I’m an **Android Engineer** based in Jakarta, working across Exchange, US Stocks, and Fiat Money teams — building and improving features in high-traffic financial products.
+
+I'm an **Android Engineer** based in Jakarta, working across **Exchange**, **US Stocks**, and **Fiat Money** teams — building and improving features in high-traffic financial products.
 
 I enjoy solving complex problems in:
-- ⚡ **Performance optimization** (RecyclerView, data flow, UI responsiveness)
-- 🧩 **Architecture & refactoring** (cleaner modules, reducing redundancies, scalable patterns)
-- 🔐 **Mobile security & research** (Android penetration testing, reverse engineering, custom ROM/kernel work)
+
+- ⚡ **Performance optimization** — RecyclerView, data flow, UI responsiveness
+- 🧩 **Architecture & refactoring** — cleaner modules, reducing redundancies, scalable patterns
+- 🔐 **Mobile security & research** — Android penetration testing, reverse engineering, custom ROM/kernel work
 
 ---
 
 ## 🧠 Focus Areas
-- Android app development with **Kotlin & Java**
-- Building trading/financial features: **order history, deposit/withdrawal, charts, real-time price updates**
-- Debugging and shipping production-ready improvements with strong quality mindset
 
----
-
-## 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/krisnapandee)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krisnasirait)
+| Area | Details |
+|---|---|
+| **Development** | Native Android apps with Kotlin & Java |
+| **Domain** | Trading/financial features — order history, deposit/withdrawal, charts, real-time price updates |
+| **Quality** | Debugging and shipping production-ready improvements with a strong quality mindset |
 
 ---
 
 ## 💻 Tech Stack
+
+<div align="center">
+
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
@@ -35,18 +42,36 @@ I enjoy solving complex problems in:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
+</div>
+
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=krisnasirait&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=krisnasirait&theme=default&hide_border=false)<br/>
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=krisnasirait&theme=default&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=krisnasirait&theme=default&hide_border=false)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=krisnasirait&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+</div>
 
 ---
 
 ## 🏆 GitHub Trophies
+
+<div align="center">
+
 ![](https://github-profile-trophy.vercel.app/?username=krisnasirait&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
 
 ---
 
+<div align="center">
+
 [![](https://visitcount.itsvg.in/api?id=krisnasirait&icon=0&color=8)](https://visitcount.itsvg.in)
+
+</div>
