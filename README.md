@@ -1,3 +1,5 @@
+make a better github readme 
+
 # Hi, I’m Krisna 👋
 **Android Engineer (Kotlin/Java) | Fintech & Trading Apps | Performance & Security-minded**
 
